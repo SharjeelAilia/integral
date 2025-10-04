@@ -1,4 +1,5 @@
 <div align="center">
+  <div></div>
 <img src="https://i.imgur.com/R7wOg9n.png" alt="Integral Chess Engine" width="150" height="150"/>
 <h3>Integral</h3>
 Integral is a top chess engine developed in C++. It is a personal project developed with the goal of meshing my admiration for chess with programming.
